@@ -160,7 +160,7 @@ Email     : zaheerocean@gmail.com
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![thezaheershaikh's Stats](https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
@@ -170,7 +170,7 @@ Email     : zaheerocean@gmail.com
 
 ---
 
-# 📈 Profile Summary
+# Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thezaheershaikh&theme=dracula" alt="Profile details" />
@@ -191,13 +191,13 @@ Email     : zaheerocean@gmail.com
 
 ---
 
-# 📈 Activity Graph
+# Activity Graph
 
 [![thezaheershaikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezaheershaikh&theme=dracula)](https://github.com/thezaheershaikh)
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake-dark.svg">
@@ -224,13 +224,13 @@ print(developer_philosophy())
 
 ---
 
-## 🛠️ Tech Stack & Skill Evolution
+## Tech Stack & Skill Evolution
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,githubactions,vscode,postman,jest" alt="Tech stack logos" />
 </p>
 
-### **📚 Current Skills (2026 - Foundation Building)**
+### **Current Skills (2026 - Foundation Building)**
 
 ```json
 {
@@ -247,7 +247,7 @@ print(developer_philosophy())
 }
 ```
 
-### **💼 Job-Ready Skills (2029 - Moving to Germany)**
+### **Job-Ready Skills (2029 - Moving to Germany)**
 
 ```json
 {
@@ -268,7 +268,7 @@ print(developer_philosophy())
 }
 ```
 
-### **🎓 Masters Level Skills (2031-2033 - During MS in Germany)**
+### **Masters Level Skills (2031-2033 - During MS in Germany)**
 
 ```json
 {
@@ -309,7 +309,7 @@ print(developer_philosophy())
 }
 ```
 
-### **🚀 Expert Level (2033+ - Post-Masters Career)**
+### **Expert Level (2033+ - Post-Masters Career)**
 
 ```json
 {
@@ -360,7 +360,7 @@ print(developer_philosophy())
 
 ---
 
-## 📈 Skill Acquisition Timeline (No Exaggeration)
+## Skill Acquisition Timeline (No Exaggeration)
 
 - **2026:** Build strong JavaScript fundamentals and complete 2 real projects.
 - **2027:** Learn React + Node.js deeply and deploy full-stack apps.
@@ -371,7 +371,7 @@ print(developer_philosophy())
 
 ---
 
-# ☕ Support My Work
+# Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/zaheershaikh" target="_blank">
