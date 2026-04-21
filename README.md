@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 
 <p align="center">
-  <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/50c66f38-7c6f-416d-a048-5e662acb4775" />
+  <img width="540" height="300" alt="Image" src="https://github.com/user-attachments/assets/ee874d7c-dacb-4c50-8a5f-43c708d5aa15" />
 </p>
 
 ---
@@ -239,10 +239,10 @@ Email     : zaheerocean@gmail.com
 ```python
 def developer_philosophy():
     quotes = [
-        "Discipline is choosing between what you want now and what you want most.",
-        "Success is the sum of small efforts repeated every day.",
-        "Great things are built one focused day at a time.",
-        "Dream big, start small, but most of all, start."
+        "Stay hungry, stay foolish.",
+        "First, solve the problem. Then, write the code.",
+        "Consistency compounds into greatness.",
+        "Build what matters, and build it well."
     ]
     import random
     return random.choice(quotes)
