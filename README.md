@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 
 <p align="center">
-  <img width="540" height="300" alt="Image" src="https://github.com/user-attachments/assets/ee874d7c-dacb-4c50-8a5f-43c708d5aa15" />
+  <img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/f80f98c8-aac7-4894-9b6f-bf8fed8b3903" />
 </p>
 
 ---
