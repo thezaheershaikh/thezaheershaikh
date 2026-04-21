@@ -115,11 +115,6 @@ Tools:
 Git | GitHub | Terminal | VS Code
 ```
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula"/>
-</p>
-
 ---
 
 # connect.sh
@@ -140,6 +135,27 @@ Email     : zaheerocean@gmail.com
 ![thezaheershaikh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=dracula&hide_border=true)
 
 ![thezaheershaikh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=dracula&hide_border=true&layout=compact)
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thezaheershaikh&theme=dracula)
+</p>
+
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula)
+</p>
+
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thezaheershaikh&theme=dracula)
+</p>
+
+<p align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thezaheershaikh&theme=dracula&utcOffset=8)
+</p>
 
 ---
 
