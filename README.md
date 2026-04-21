@@ -40,6 +40,7 @@ public class DeveloperBio {
 const developer = {
   name: "Zaheer Ali Shaikh",
   role: "Full Stack Developer",
+  location: "Vinland Saga",
   focus: ["AI Products", "Scalable Web Apps"],
   portfolio: "https://zaheer.vercel.app/",
   stack: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js", "AWS"],
