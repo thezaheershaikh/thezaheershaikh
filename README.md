@@ -250,23 +250,3 @@ def developer_philosophy():
 # Current mindset
 print(developer_philosophy())
 ```
-
----
-
-# 🖼️ Extra Visuals
-
-<p align="center">
-  <img width="766" height="1200" alt="Image" src="https://github.com/user-attachments/assets/e3c6671f-fb59-47dd-bf17-2102a83b0ec2" />
-</p>
-
-<p align="center">
-  <img width="500" height="283" alt="Image" src="https://github.com/user-attachments/assets/be7e6aee-1d6d-46af-a69f-dc0134a63c2c" />
-</p>
-
-<p align="center">
-  <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/50c66f38-7c6f-416d-a048-5e662acb4775" />
-</p>
-
-<p align="center">
-  <img width="896" height="896" alt="Image" src="https://github.com/user-attachments/assets/199d3511-f275-41e9-9697-e10b657fb73a" />
-</p>
