@@ -41,6 +41,7 @@ const developer = {
   name: "Zaheer Ali Shaikh",
   role: "Full Stack Developer",
   focus: ["AI Products", "Scalable Web Apps"],
+  portfolio: "https://zaheer.vercel.app/",
   stack: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js", "AWS"],
   currentlyLearning: ["Machine Learning", "Generative AI", "LLMs"],
   mission: "Create end-to-end products that are clean, scalable, and impactful."
@@ -72,18 +73,51 @@ public class Experience {
 
 ```javascript
 const projects = {
-  webApplications: {
-    stack: ["React", "Next.js", "Node.js"],
-    description: "Scalable full-stack web apps built with modern frameworks."
+  "01": {
+    name: "Vault OS",
+    stack: ["React", "Node", "PostgreSQL"],
+    action: "VIEW PROJECT"
   },
-  aiDrivenProducts: {
-    stack: ["Python", "Node.js", "MongoDB"],
-    description: "Intelligent products powered by AI and ML capabilities."
+  "02": {
+    name: "3D LANDING PAGE",
+    stack: ["Parallax", "Three.js", "GSAP", "WebGL"],
+    action: "VIEW PROJECT"
   },
-  cloudInfrastructure: {
-    stack: ["AWS", "MongoDB", "SQL"],
-    description: "Production-ready deployments and infrastructure management."
-  }
+  "03": {
+    name: "BLOGGING PLATFORM",
+    product: "Inkwell",
+    stack: ["Next.js", "Prisma", "tRPC"],
+    action: "VIEW PROJECT"
+  },
+  "04": {
+    name: "REAL-TIME ANALYTICS",
+    product: "Pulse",
+    stack: ["WebSockets", "Redis", "D3.js"],
+    action: "VIEW PROJECT"
+  },
+  "05": {
+    name: "AI SEARCH ENGINE",
+    product: "Aether",
+    stack: ["Rust", "Python", "Pinecone"],
+    action: "VIEW PROJECT"
+  },
+  "06": {
+    name: "SMART HOME HUB",
+    product: "Lumina",
+    stack: ["React Native", "MQTT", "Node.js"],
+    action: "VIEW PROJECT"
+  },
+  "07": {
+    name: "CRYPTO TRADING BOT",
+    product: "Zenith",
+    stack: ["Go", "WebSockets", "PostgreSQL"],
+    action: "VIEW PROJECT"
+  },
+  "08": {
+    name: "E-COMMERCE ENGINE",
+    product: "Nova",
+    action: "VIEW PROJECT"
+  },
 };
 ```
 
@@ -92,6 +126,7 @@ const projects = {
 ```yaml
 email: zaheerocean@gmail.com
 github: https://github.com/thezaheershaikh
+portfolio: https://zaheer.vercel.app/
 linkedin: https://linkedin.com/in/thezaheershaikh
 twitter: https://twitter.com/thezenparker
 ```
