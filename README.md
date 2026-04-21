@@ -149,6 +149,29 @@ Email     : zaheerocean@gmail.com
 
 ---
 
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/zaheershaikh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
+  </a>
+  <a href="https://paypal.me/zaheeralishaikh" target="_blank">
+    <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal" height="60">
+  </a>
+</p>
+
+---
+
 # philosophy.py
 
 ```python
