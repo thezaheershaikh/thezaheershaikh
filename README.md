@@ -192,7 +192,7 @@ Email     : zaheerocean@gmail.com
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
   </a>
   <a href="https://paypal.me/zaheeralishaikh" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20Me%20on%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C&color=0079C1" alt="PayPal" height="60">
+    <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" alt="PayPal" height="60">
   </a>
 </p>
 
@@ -203,10 +203,10 @@ Email     : zaheerocean@gmail.com
 ```python
 def developer_philosophy():
     quotes = [
-        "Code is poetry.",
-        "Simplicity is key.",
-        "Learn by doing.",
-        "Innovate daily."
+        "Discipline is choosing between what you want now and what you want most.",
+        "Success is the sum of small efforts repeated every day.",
+        "Great things are built one focused day at a time.",
+        "Dream big, start small, but most of all, start."
     ]
     import random
     return random.choice(quotes)
