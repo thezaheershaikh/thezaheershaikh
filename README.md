@@ -205,21 +205,6 @@ Email     : zaheerocean@gmail.com
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-# ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/zaheershaikh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
-  </a>
-  <a href="https://paypal.me/zaheeralishaikh" target="_blank">
-    <img width="124" height="76" alt="Image" src="https://github.com/user-attachments/assets/169de3a8-b609-46fb-94b6-5024c2dd8766" />
-  </a>
-</p>
-
----
-
 # philosophy.py
 
 ```python
@@ -242,7 +227,7 @@ print(developer_philosophy())
 ## 🛠️ Tech Stack & Skill Evolution
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" alt="Tech stack logos" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,redis,docker,kubernetes,aws,git,github,githubactions,vscode,postman,jest" alt="Tech stack logos" />
 </p>
 
 ### **📚 Current Skills (2026 - Foundation Building)**
@@ -383,3 +368,16 @@ print(developer_philosophy())
 - **2029:** Become job-ready for junior JavaScript full-stack roles in Germany.
 - **2031-2033:** During MS, strengthen distributed systems and cloud foundations.
 - **2033+:** Grow into senior-level ownership with architecture and mentoring.
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/zaheershaikh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
+  </a>
+  <a href="https://paypal.me/zaheeralishaikh" target="_blank">
+    <img width="124" height="76" alt="Image" src="https://github.com/user-attachments/assets/169de3a8-b609-46fb-94b6-5024c2dd8766" />
+  </a>
+</p>
