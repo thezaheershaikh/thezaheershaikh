@@ -227,7 +227,7 @@ Email     : zaheerocean@gmail.com
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
   </a>
   <a href="https://paypal.me/zaheeralishaikh" target="_blank">
-    <img src="https://lavendercottagecattery.co.uk/wp-content/uploads/2022/10/CITYPNG.COMDownload-PayPal-Yellow-Payment-Button-PNG-2100x770-2.png" alt="PayPal" height="60">
+    <img width="124" height="76" alt="Image" src="https://github.com/user-attachments/assets/169de3a8-b609-46fb-94b6-5024c2dd8766" />
   </a>
 </p>
 
