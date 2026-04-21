@@ -16,36 +16,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
-# bio.java
-
-```java
-public class DeveloperBio {
-    String name = "Zaheer Ali Shaikh";
-    String role = "Full Stack Developer";
-    String focus = "AI Products | Scalable Web Apps";
-
-    String[] skills = {
-        "JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js", "AWS"
-    };
-
-    String mission() {
-        return "Build scalable web apps and AI-driven products that solve real-world problems.";
-    }
-}
-```
-
 # bio.js
 
 ```javascript
 const developer = {
   name: "Zaheer Ali Shaikh",
-  role: "Full Stack Developer",
-  location: "Vinland", //"I have no enemies"
-  focus: ["AI Products", "Scalable Web Apps"],
+  role: "JavaScript Developer",
+  location: "India",
+  focus: ["Frontend Engineering", "Backend APIs", "Scalable Web Apps"],
   portfolio: "https://zaheer.vercel.app/",
-  stack: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js", "AWS"],
-  currentlyLearning: ["Machine Learning", "Generative AI", "LLMs"],
-  mission: "Create end-to-end products that are clean, scalable, and impactful."
+  stack: ["JavaScript", "React", "Next.js", "Node.js", "Express", "MongoDB"],
+  currentlyLearning: ["Advanced JavaScript", "System Design Basics", "Testing with Jest"],
+  mission: "Build clean and practical JavaScript products that solve real user problems."
 };
 ```
 
@@ -53,10 +35,14 @@ const developer = {
 
 ```json
 {
-  "programmingLanguages": ["JavaScript", "TypeScript", "Python"],
-  "frameworksAndLibraries": ["React", "Next.js", "Node.js"],
-  "cloudAndDatabases": ["AWS", "MongoDB", "SQL"],
-  "currentlyLearning": ["Machine Learning", "Generative AI", "Large Language Models (LLMs)"]
+  "stage": "JavaScript-Focused Developer",
+  "programmingLanguages": ["JavaScript"],
+  "frontend": ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
+  "backend": ["Node.js", "Express.js", "REST APIs"],
+  "databases": ["MongoDB", "MySQL"],
+  "tools": ["Git", "GitHub", "Postman", "VS Code"],
+  "currentlyLearning": ["TypeScript", "Testing (Jest)", "Performance Optimization"],
+  "missingToImprove": ["DSA consistency", "System design practice", "Production deployment depth"]
 }
 ```
 
@@ -250,3 +236,150 @@ def developer_philosophy():
 # Current mindset
 print(developer_philosophy())
 ```
+
+---
+
+## 🛠️ Tech Stack & Skill Evolution
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" alt="Tech stack logos" />
+</p>
+
+### **📚 Current Skills (2026 - Foundation Building)**
+
+```json
+{
+  "stage": "Computer Engineering Student",
+  "programmingLanguages": ["JavaScript"],
+  "concepts": ["OOP", "Data Structures", "Algorithms"],
+  "tools": ["Git", "GitHub", "VS Code", "Postman"],
+  "currentlyLearning": [
+    "JavaScript Core",
+    "DSA practice",
+    "Web Development Basics"
+  ],
+  "projects": ["Student Management System", "Portfolio Website"]
+}
+```
+
+### **💼 Job-Ready Skills (2029 - Moving to Germany)**
+
+```json
+{
+  "stage": "Junior Software Engineer",
+  "programmingLanguages": ["JavaScript", "TypeScript", "SQL"],
+  "backend": ["Node.js", "Express.js", "REST APIs"],
+  "frontend": ["React", "Next.js", "HTML/CSS", "Responsive Design"],
+  "databases": ["PostgreSQL", "MySQL", "MongoDB"],
+  "devOps": ["Docker", "GitHub Actions", "Git/GitHub"],
+  "cloud": ["AWS (EC2, S3)", "CI/CD basics"],
+  "tools": ["npm", "Postman", "Jest", "VS Code"],
+  "practices": ["Agile/Scrum", "Code Reviews", "Clean Code"],
+  "mastery": [
+    "250+ DSA problems solved",
+    "3-4 production-ready projects",
+    "System Design basics"
+  ]
+}
+```
+
+### **🎓 Masters Level Skills (2031-2033 - During MS in Germany)**
+
+```json
+{
+  "stage": "MS Computer Science Student in Germany",
+  "programmingLanguages": ["JavaScript", "TypeScript", "SQL"],
+  "advancedBackend": [
+    "Node.js architecture",
+    "Microservices basics",
+    "GraphQL",
+    "Message Queues (Kafka basics)"
+  ],
+  "advancedFrontend": [
+    "React",
+    "Next.js",
+    "State Management (Redux, Zustand)",
+    "Progressive Web Apps (PWA)"
+  ],
+  "cloudAndInfrastructure": [
+    "AWS (ECS/EKS basics)",
+    "Terraform fundamentals",
+    "Infrastructure as Code basics"
+  ],
+  "databases": [
+    "PostgreSQL (Advanced queries)",
+    "MongoDB (Indexing basics)",
+    "Redis (Caching)"
+  ],
+  "systemDesign": [
+    "Distributed Systems fundamentals",
+    "Load Balancing basics",
+    "Caching Strategies",
+    "Database scaling basics"
+  ],
+  "specializations": [
+    "Scalable Web Applications",
+    "Cloud-Native Development"
+  ]
+}
+```
+
+### **🚀 Expert Level (2033+ - Post-Masters Career)**
+
+```json
+{
+  "stage": "Senior Software Engineer",
+  "coreTech": {
+    "programmingLanguages": ["JavaScript (Expert)", "TypeScript (Expert)", "SQL"],
+    "frameworks": ["Node.js", "React", "Next.js", "Express.js"]
+  },
+  "cloudArchitecture": {
+    "platforms": ["AWS"],
+    "skills": [
+      "Scalable architecture",
+      "Cloud cost optimization",
+      "Auto-scaling systems",
+      "Cloud security best practices"
+    ],
+    "tools": ["Terraform", "Docker", "Kubernetes"]
+  },
+  "databases": {
+    "sql": ["PostgreSQL", "MySQL"],
+    "noSQL": ["MongoDB", "Redis"],
+    "skills": [
+      "Database design",
+      "Query optimization",
+      "Indexing strategies",
+      "Replication basics"
+    ]
+  },
+  "systemDesign": {
+    "patterns": ["Microservices", "Event-Driven Architecture", "CQRS basics"],
+    "concepts": [
+      "Consistency trade-offs",
+      "Caching strategies",
+      "Message queues"
+    ],
+    "expertise": [
+      "Design systems for high traffic",
+      "Optimize for low latency",
+      "Build fault-tolerant services"
+    ]
+  },
+  "leadership": {
+    "technical": ["Architecture design", "Mentoring", "Code review"],
+    "soft": ["Team collaboration", "Project planning", "Technical communication"]
+  }
+}
+```
+
+---
+
+## 📈 Skill Acquisition Timeline (No Exaggeration)
+
+- **2026:** Build strong JavaScript fundamentals and complete 2 real projects.
+- **2027:** Learn React + Node.js deeply and deploy full-stack apps.
+- **2028:** Add TypeScript, testing, and better backend architecture skills.
+- **2029:** Become job-ready for junior JavaScript full-stack roles in Germany.
+- **2031-2033:** During MS, strengthen distributed systems and cloud foundations.
+- **2033+:** Grow into senior-level ownership with architecture and mentoring.
