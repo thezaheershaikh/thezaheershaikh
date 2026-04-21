@@ -116,8 +116,8 @@ Git | GitHub | Terminal | VS Code
 ```
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/81df40852210f91cbb90964a38cd51c6f475d654a2cb91b6eb2c0650a808822a/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d7468657a6168656572736861696b68267468656d653d7675652d6461726b" />
-<img src="https://camo.githubusercontent.com/5c38601ebf3d3528e7fb8bacf6ae118ba24813adf6cd37c2d933df91823039c3/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d7468657a6168656572736861696b68267468656d653d7675652d6461726b" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula"/>
 </p>
 
 ---
@@ -135,17 +135,17 @@ Email     : zaheerocean@gmail.com
 
 # 📊 GitHub Stats
 
-![thezaheershaikh's Stats](https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![thezaheershaikh's Stats](https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![thezaheershaikh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=vue-dark&hide_border=true)
+![thezaheershaikh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=dracula&hide_border=true)
 
-![thezaheershaikh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=vue-dark&hide_border=true&layout=compact)
+![thezaheershaikh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=dracula&hide_border=true&layout=compact)
 
 ---
 
 # 📈 Activity Graph
 
-[![thezaheershaikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezaheershaikh&theme=vue-dark)](https://github.com/thezaheershaikh)
+[![thezaheershaikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezaheershaikh&theme=dracula)](https://github.com/thezaheershaikh)
 
 ---
 
