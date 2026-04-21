@@ -16,13 +16,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
-# bio.txt
+# bio.java
 
-```txt
-Zaheer Ali Shaikh
-Full Stack Developer | AI Products | Scalable Web Apps
+```java
+public class DeveloperBio {
+    String name = "Zaheer Ali Shaikh";
+    String role = "Full Stack Developer";
+    String focus = "AI Products | Scalable Web Apps";
 
-I am a Full Stack Developer with a passion for building scalable web applications and AI-driven products using modern JavaScript ecosystems and cloud technologies. I specialize in creating end-to-end solutions that solve real-world problems.
+    String[] skills = {
+        "JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js", "AWS"
+    };
+
+    String mission() {
+        return "Build scalable web apps and AI-driven products that solve real-world problems.";
+    }
+}
+```
+
+# bio.js
+
+```javascript
+const developer = {
+  name: "Zaheer Ali Shaikh",
+  role: "Full Stack Developer",
+  focus: ["AI Products", "Scalable Web Apps"],
+  stack: ["JavaScript", "TypeScript", "Python", "React", "Next.js", "Node.js", "AWS"],
+  currentlyLearning: ["Machine Learning", "Generative AI", "LLMs"],
+  mission: "Create end-to-end products that are clean, scalable, and impactful."
+};
 ```
 
 ### Skills & Technologies
