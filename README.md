@@ -116,8 +116,8 @@ Git | GitHub | Terminal | VS Code
 ```
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zenparker&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zenparker&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=vue-dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=vue-dark"/>
 </p>
 
 ---
@@ -135,17 +135,17 @@ Email     : zaheerocean@gmail.com
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=zenparker&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![thezaheershaikh's Stats](https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zenparker&theme=tokyonight&hide_border=true)
+![thezaheershaikh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=vue-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zenparker&theme=tokyonight&hide_border=true&layout=compact)
+![thezaheershaikh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=vue-dark&hide_border=true&layout=compact)
 
 ---
 
 # 📈 Activity Graph
 
-[![Zaheer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zenparker&theme=tokyo-night)](https://github.com/zenparker)
+[![thezaheershaikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezaheershaikh&theme=vue-dark)](https://github.com/thezaheershaikh)
 
 ---
 
