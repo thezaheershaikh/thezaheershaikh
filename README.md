@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Media/developer.gif" alt="Developer animation" />
+  <img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/2a5e31bc-4c69-4a39-b8bf-a2b55a7aa538" />
 </p>
 
 ---
