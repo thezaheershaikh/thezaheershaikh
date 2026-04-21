@@ -16,9 +16,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
-### About Me
+# bio.txt
+
+```txt
+Zaheer Ali Shaikh
+Full Stack Developer | AI Products | Scalable Web Apps
 
 I am a Full Stack Developer with a passion for building scalable web applications and AI-driven products using modern JavaScript ecosystems and cloud technologies. I specialize in creating end-to-end solutions that solve real-world problems.
+```
 
 ### Skills & Technologies
 
@@ -170,10 +175,10 @@ Email     : zaheerocean@gmail.com
 ```python
 def developer_philosophy():
     quotes = [
-        "Code is like humor. When you have to explain it, it's bad.",
-        "First, solve the problem. Then, write the code.",
-        "Experience is the name everyone gives to their mistakes.",
-        "In order to be irreplaceable, one must always be different."
+        "Code is poetry.",
+        "Simplicity is key.",
+        "Learn by doing.",
+        "Innovate daily."
     ]
     import random
     return random.choice(quotes)
