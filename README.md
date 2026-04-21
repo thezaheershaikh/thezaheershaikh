@@ -1,7 +1,7 @@
-<!-- Typing Animation -->
+<!-- Animated Header Banner -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Zaheer;Full+Stack+Developer;AI-Driven+Products+Builder;Scalable+Web+Applications;Building+with+React+Next.js+Node.js" />
+  <img src="https://capsule-render.vercel.app/api?type=animated&height=300&color=gradient&text=Zaheer%20Ali%20Shaikh&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=18&fontColor=ffffff&animation=twinkling&section=header" />
 </p>
 
 ---
@@ -192,5 +192,15 @@ Email     : zaheerocean@gmail.com
 
 ```python
 def developer_philosophy():
-    return "Problem-solving, first-principles thinking, and continuous learning."
+    quotes = [
+        "Code is like humor. When you have to explain it, it's bad.",
+        "First, solve the problem. Then, write the code.",
+        "Experience is the name everyone gives to their mistakes.",
+        "In order to be irreplaceable, one must always be different."
+    ]
+    import random
+    return random.choice(quotes)
+
+# Current mindset
+print(developer_philosophy())
 ```
