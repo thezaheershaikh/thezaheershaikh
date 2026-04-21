@@ -10,9 +10,9 @@
 
 ## Full Stack Developer | AI Products | Scalable Web Apps
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/zenpark3r)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/thezenparker)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/zenparker)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/zenpark3r/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/thezenparker/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
@@ -47,55 +47,61 @@ const developer = {
 };
 ```
 
-### Skills & Technologies
+# skills.json
 
-#### Programming Languages
-- JavaScript
-- TypeScript
-- Python
+```json
+{
+  "programmingLanguages": ["JavaScript", "TypeScript", "Python"],
+  "frameworksAndLibraries": ["React", "Next.js", "Node.js"],
+  "cloudAndDatabases": ["AWS", "MongoDB", "SQL"],
+  "currentlyLearning": ["Machine Learning", "Generative AI", "Large Language Models (LLMs)"]
+}
+```
 
-#### Frameworks & Libraries
-- React
-- Next.js
-- Node.js
+# experience.java
 
-#### Cloud & Databases
-- AWS
-- MongoDB
-- SQL
+```java
+public class Experience {
+    String fullStack = "Building scalable web applications with React, Next.js, and Node.js.";
+    String cloud = "Deploying and managing production cloud solutions on AWS.";
+    String ai = "Developing intelligent products powered by AI and machine learning.";
+}
+```
 
-#### Currently Learning
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
+# projects.js
 
-### Experience
+```javascript
+const projects = {
+  webApplications: {
+    stack: ["React", "Next.js", "Node.js"],
+    description: "Scalable full-stack web apps built with modern frameworks."
+  },
+  aiDrivenProducts: {
+    stack: ["Python", "Node.js", "MongoDB"],
+    description: "Intelligent products powered by AI and ML capabilities."
+  },
+  cloudInfrastructure: {
+    stack: ["AWS", "MongoDB", "SQL"],
+    description: "Production-ready deployments and infrastructure management."
+  }
+};
+```
 
-- **Full Stack Development**: Building scalable web applications from scratch using React, Next.js, and Node.js.
-- **Cloud Infrastructure**: Deploying and managing cloud-based solutions on AWS.
-- **AI-Driven Products**: Developing intelligent products powered by AI and machine learning.
+# contact.yml
 
-### Projects
+```yaml
+email: zaheerocean@gmail.com
+github: https://github.com/thezaheershaikh
+linkedin: https://linkedin.com/in/thezaheershaikh
+twitter: https://twitter.com/thezenparker
+```
 
-#### Web Applications
-Scalable full-stack web applications built with modern frameworks like React and Next.js.
+# license.txt
 
-#### AI-Driven Products
-Intelligent products leveraging Python, Node.js, and MongoDB for AI and ML capabilities.
-
-#### Cloud Infrastructure
-Production-ready cloud deployments and infrastructure management using AWS and databases.
-
-### Contact
-
-- **Email**: zaheerocean@gmail.com
-- **GitHub**: [zenparker](https://github.com/zenparker)
-- **LinkedIn**: [zenparker](https://linkedin.com/in/zenparker)
-- **Twitter**: [@zenpark3r](https://twitter.com/zenpark3r)
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```txt
+MIT License
+See LICENSE file for full details.
+```
 
 ---
 
@@ -125,8 +131,8 @@ Git | GitHub | Terminal | VS Code
 
 ```bash
 LinkedIn  : linkedin.com/in/zenparker
-Twitter   : twitter.com/zenpark3r
-Instagram : instagram.com/zenpark3r
+Twitter   : twitter.com/thezenparker
+Instagram : instagram.com/thezenparker
 Email     : zaheerocean@gmail.com
 ```
 
@@ -145,20 +151,20 @@ Email     : zaheerocean@gmail.com
 # 📈 Profile Summary
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thezaheershaikh&theme=dracula)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thezaheershaikh&theme=dracula" alt="Profile details" />
 </p>
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula" alt="Most commit language" />
 </p>
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thezaheershaikh&theme=dracula)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thezaheershaikh&theme=dracula" alt="Stats card" />
 </p>
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thezaheershaikh&theme=dracula&utcOffset=8)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thezaheershaikh&theme=dracula&utcOffset=8" alt="Productive time" />
 </p>
 
 ---
