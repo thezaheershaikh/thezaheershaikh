@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=animated&height=300&color=gradient&text=Zaheer%20Ali%20Shaikh&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=18&fontColor=ffffff&animation=twinkling&section=header" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3NjUwODYsIm5iZiI6MTc3Njc2NDc4NiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIxVDA5NDYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkZWRjYzdmNmQ2MmNkNGVhOWM2ZDc4MDRlNDY4YjIyZDJjZDlhNjM2YTNkOWJjN2Q1YjM1OTU2ODU3N2QwZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.i3FTk2-VGQ_3VjPOlXbyPWNzRW9faTGm37F8YspHwLc" />
 </p>
 
 ---
