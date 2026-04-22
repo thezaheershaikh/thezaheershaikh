@@ -131,20 +131,30 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/zenparker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-# tech_stack.sh
+# tech_stack.yml
 
-```bash
-Languages:
-JavaScript | TypeScript | Python
+```yaml
+languages:
+  - JavaScript
+  - TypeScript
+  - Python
 
-Frameworks:
-React | Next.js | Node.js | Vue
+frameworks:
+  - React
+  - Next.js
+  - Node.js
+  - Vue
 
-Cloud & Database:
-AWS | MongoDB | SQL
+cloud_and_database:
+  - AWS
+  - MongoDB
+  - SQL
 
-Tools:
-Git | GitHub | Terminal | VS Code
+tools:
+  - Git
+  - GitHub
+  - Terminal
+  - VS Code
 ```
 
 ---
