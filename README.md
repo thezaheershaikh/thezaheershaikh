@@ -247,7 +247,7 @@ print(developer_philosophy())
 ## Tech Stack & Skill Evolution
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,redis,prisma,supabase,graphql,docker,kubernetes,aws,gcp,vercel,cloudflare,bun,pnpm,git,github,githubactions,vscode,postman,jest" alt="Tech stack logos" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,go,rust,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,redis,prisma,supabase,graphql,docker,kubernetes,aws,gcp,vercel,cloudflare,bun,pnpm,git,github,githubactions,vscode,postman,jest" alt="Tech stack logos" />
 </p>
 
 ### **Current Skills (2026 - Foundation Building)**
