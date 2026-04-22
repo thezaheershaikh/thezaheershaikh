@@ -16,40 +16,59 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
 
-## Bio
+# bio.js
 
-Full Stack Developer focused on building clean and practical web products.
+```javascript
+const developer = {
+  name: "Zaheer Ali Shaikh",
+  role: "Full Stack JavaScript Developer",
+  location: "India",
+  focus: ["Frontend Engineering", "Backend APIs", "Scalable Web Apps"],
+  portfolio: "https://zaheer.vercel.app/",
+  mission: "Build clean, practical products that solve real problems."
+};
+```
 
-- Name: Zaheer Ali Shaikh
-- Role: JavaScript Developer
-- Location: India
-- Focus: Frontend Engineering, Backend APIs, Scalable Web Apps
-- Portfolio: https://zaheer.vercel.app/
+# skills.json
 
-## Skills
+```json
+{
+  "programmingLanguages": ["JavaScript", "TypeScript", "SQL", "Python"],
+  "frontend": ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
+  "backend": ["Node.js", "Express.js", "REST APIs", "GraphQL"],
+  "databases": ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+  "cloudDevOps": ["AWS", "Docker", "Kubernetes", "GitHub Actions", "Terraform"],
+  "tools": ["Git", "GitHub", "Postman", "VS Code", "Jest"],
+  "coreConcepts": ["Data Structures", "Algorithms", "System Design Basics", "Clean Code"]
+}
+```
 
-- JavaScript, TypeScript
-- React, Next.js, Node.js, Express.js
-- HTML5, CSS3, Tailwind CSS
-- MongoDB, MySQL, PostgreSQL
-- Git, GitHub, Postman, VS Code
-- REST APIs, Testing (Jest), System Design Basics
+# experience.java
 
-## Experience
+```java
+public class Experience {
+    String fullStack = "Building production-ready web apps using React, Next.js, and Node.js.";
+    String backend = "Designing APIs, authentication flows, and scalable server architecture.";
+    String database = "Working with MongoDB, PostgreSQL, and MySQL for reliable data models.";
+    String cloud = "Deploying and maintaining applications with modern cloud/devops practices.";
+}
+```
 
-- Building full-stack applications with React, Next.js, and Node.js.
-- Developing backend APIs and integrating databases for production workflows.
-- Deploying and maintaining web apps with focus on performance and reliability.
+# projects.js
 
-## Projects & License
+```javascript
+const projects = [
+  { name: "Vault OS", stack: ["React", "Node.js", "PostgreSQL"] },
+  { name: "3D Landing Page", stack: ["Three.js", "GSAP", "WebGL"] },
+  { name: "Inkwell (Blogging Platform)", stack: ["Next.js", "Prisma", "tRPC"] },
+  { name: "Pulse (Real-time Analytics)", stack: ["WebSockets", "Redis", "D3.js"] },
+  { name: "Aether (AI Search Engine)", stack: ["Python", "Rust", "Pinecone"] }
+];
+```
 
-### Projects
+# license.txt
 
-- Vault OS - React, Node, PostgreSQL
-- 3D Landing Page - Three.js, GSAP, WebGL
-- Inkwell (Blogging Platform) - Next.js, Prisma, tRPC
-- Pulse (Real-time Analytics) - WebSockets, Redis, D3.js
-
-### License
-
-MIT License. See `LICENSE` for full details.
+```txt
+MIT License
+See LICENSE file for full details.
+```
