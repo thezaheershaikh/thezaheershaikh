@@ -162,32 +162,42 @@ Email     : zaheerocean@gmail.com
 
 # GitHub Stats
 
-![thezaheershaikh's Stats](https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=dracula&hide_border=true" alt="GitHub streak" />
+</p>
 
-![thezaheershaikh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=dracula&hide_border=true)
-
-![thezaheershaikh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=dracula&hide_border=true&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=dracula&hide_border=true&layout=compact" alt="Top languages" />
+</p>
 
 ---
 
 # Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thezaheershaikh&theme=dracula" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula" alt="Most commit language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thezaheershaikh&theme=dracula" alt="Stats card" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thezaheershaikh&theme=dracula&utcOffset=8" alt="Productive time" />
-</p>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thezaheershaikh&theme=dracula" alt="Profile details" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula" alt="Repos per language" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula" alt="Most commit language" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thezaheershaikh&theme=dracula" alt="Stats card" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thezaheershaikh&theme=dracula&utcOffset=8" alt="Productive time" />
+    </td>
+  </tr>
+</table>
 
 ---
 
