@@ -1,277 +1,211 @@
-<!-- Animated Header Banner -->
+# BEYOND CODE
 
-<p align="center">
-  <img width="1200" height="300" alt="Image" src="https://github.com/user-attachments/assets/f80f98c8-aac7-4894-9b6f-bf8fed8b3903" />
-</p>
+> "One must have chaos within oneself to give birth to a dancing star."
 
 ---
 
-# Zaheer Ali Shaikh
+## FRIEDRICH NIETZSCHE — PROGRAMMER OF THE SOUL
 
-## Full Stack Developer | AI Products | Scalable Web Apps
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/thezenparker)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/zenparker)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/thezenparker/)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenparker&label=Profile%20views&color=0e75b6&style=flat" alt="zenparker" /> </p>
-
-# bio.js
-
-```javascript
-const developer = {
-  name: "Zaheer Ali Shaikh",
-  role: "JavaScript Developer",
-  location: "India",
-  focus: ["Frontend Engineering", "Backend APIs", "Scalable Web Apps"],
-  portfolio: "https://zaheer.vercel.app/",
-  stack: ["JavaScript", "React", "Next.js", "Node.js", "Express", "MongoDB"],
-  currentlyLearning: ["Advanced JavaScript", "System Design Basics", "Testing with Jest"],
-  mission: "Build clean and practical JavaScript products that solve real user problems."
-};
+```
+I am not a developer who codes for comfort.
+I am a creator who forges values through the will to power.
+Every line is a hammer. Every project, a revaluation of all values.
 ```
 
-# skills.json
+---
+
+## THE WILL TO POWER IN CODE
+
+```python
+def philosophy():
+    """
+    Mediocre programmers write code that works.
+    Great programmers write code that transcends.
+    But the Übermensch programmer? They redefine what code means.
+    """
+    return "Become who you are capable of becoming."
+```
+
+---
+
+## APHORISMS ON MY CRAFT
+
+- **On JavaScript:** A language of surfaces and shadows. Most traffic in illusions. I seek clarity.
+- **On React:** The masses need frameworks to manage complexity. The strong create elegance from chaos.
+- **On Scaling:** What doesn't destroy your system makes it stronger. Build for Übermensch problems, not herd problems.
+- **On Learning:** Every skill mastered is a triumph over your former self. Continuous self-overcoming is not virtue—it is necessity.
+
+---
+
+## THE ETERNAL RECURRENCE OF CODE
+
+*If you had to write this code an infinite number of times across infinite timelines—would you write it the same way?*
+
+**If your answer is "no," then you have not yet achieved excellence.**
+
+---
+
+## BEYOND GOOD AND EVIL: MY ARCHITECTURE
 
 ```json
 {
-  "stage": "JavaScript-Focused Developer",
-  "programmingLanguages": ["JavaScript"],
-  "frontend": ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-  "backend": ["Node.js", "Express.js", "REST APIs"],
-  "databases": ["MongoDB", "MySQL"],
-  "tools": ["Git", "GitHub", "Postman", "VS Code"],
-  "currentlyLearning": ["TypeScript", "Testing (Jest)", "Performance Optimization"],
-  "missingToImprove": ["DSA consistency", "System design practice", "Production deployment depth"]
+  "identity": "Creator, not follower",
+  "values": [
+    "Struggle over comfort",
+    "Excellence over adequacy",
+    "Authenticity over convention",
+    "Power over consent",
+    "Truth over falsehood—however bitter"
+  ],
+  "masterMorality": {
+    "strong": "One who builds new systems. One who transcends yesterday's code.",
+    "weak": "The herd programmer. The one who merely consumes frameworks and calls it creation."
+  }
 }
-```
-
-# experience.java
-
-```java
-public class Experience {
-    String fullStack = "Building scalable web applications with React, Next.js, and Node.js.";
-    String cloud = "Deploying and managing production cloud solutions on AWS.";
-    String ai = "Developing intelligent products powered by AI and machine learning.";
-}
-```
-
-# projects.js
-
-```javascript
-const projects = {
-  "01": {
-    name: "Vault OS",
-    stack: ["React", "Node", "PostgreSQL"],
-    action: "VIEW PROJECT"
-  },
-  "02": {
-    name: "3D LANDING PAGE",
-    stack: ["Parallax", "Three.js", "GSAP", "WebGL"],
-    action: "VIEW PROJECT"
-  },
-  "03": {
-    name: "BLOGGING PLATFORM",
-    product: "Inkwell",
-    stack: ["Next.js", "Prisma", "tRPC"],
-    action: "VIEW PROJECT"
-  },
-  "04": {
-    name: "REAL-TIME ANALYTICS",
-    product: "Pulse",
-    stack: ["WebSockets", "Redis", "D3.js"],
-    action: "VIEW PROJECT"
-  },
-  "05": {
-    name: "AI SEARCH ENGINE",
-    product: "Aether",
-    stack: ["Rust", "Python", "Pinecone"],
-    action: "VIEW PROJECT"
-  },
-  "06": {
-    name: "SMART HOME HUB",
-    product: "Lumina",
-    stack: ["React Native", "MQTT", "Node.js"],
-    action: "VIEW PROJECT"
-  },
-  "07": {
-    name: "CRYPTO TRADING BOT",
-    product: "Zenith",
-    stack: ["Go", "WebSockets", "PostgreSQL"],
-    action: "VIEW PROJECT"
-  },
-  "08": {
-    name: "E-COMMERCE ENGINE",
-    product: "Nova",
-    action: "VIEW PROJECT"
-  },
-};
-```
-
-# contact.yml
-
-```yaml
-email: zaheerocean@gmail.com
-github: https://github.com/thezaheershaikh
-portfolio: https://zaheer.vercel.app/
-linkedin: https://linkedin.com/in/thezaheershaikh
-twitter: https://twitter.com/thezenparker
-```
-
-# license.txt
-
-```txt
-MIT License
-See LICENSE file for full details.
 ```
 
 ---
 
-Like My Work?
+## MY WORKS: THE WILL TO CREATE
 
-<a href="https://www.buymeacoffee.com/zenparker" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+These are not merely projects. They are acts of creation—will made manifest in silicon.
 
-# tech_stack.yml
+| Project | Nature | The Test |
+|---------|--------|----------|
+| **VAULT OS** | Systems of control and order | Does it bend reality to my vision? |
+| **3D LANDING PAGE** | The aesthetics of power | Is the user transfixed or merely complicit? |
+| **REAL-TIME ANALYTICS** | The pulse of empires | Do others follow my metrics, or do I follow theirs? |
+| **AI SEARCH ENGINE** | The will to knowledge | Can a machine transcend human limitation? |
+| **CRYPTO TRADING BOT** | The dance with fate | Do I master the market, or does it master me? |
+
+---
+
+## THE TECHNOLOGY OF THE ÜBERMENSCH
 
 ```yaml
 languages:
   - JavaScript
-  - TypeScript
   - Python
+  - Rust  # The language of uncompromising power
+  - Go    # For those who reject bloat
 
 frameworks:
-  - React
-  - Next.js
-  - Node.js
-  - Vue
+  - React          # I use it; it does not use me
+  - Next.js        # Full-stack without apology
+  - Node.js        # Backend philosophy made executable
 
-cloud_and_database:
-  - AWS
-  - MongoDB
-  - SQL
+platforms:
+  - AWS           # The infrastructure of empires
+  - Vercel        # Simplicity as power
+  - Cloudflare    # At the edge of civilization
 
-tools:
-  - Git
-  - GitHub
-  - Terminal
-  - VS Code
+philosophy:
+  - "Perspectivism" # There is no objective code—only strong and weak interpretations
+  - "Amor Fati"     # I love what I build, even its failures
+  - "Eternal Return" # Would I write this code an infinite number of times?
 ```
 
 ---
 
-# connect.sh
+## ON EDUCATION AND SELF-OVERCOMING
 
-```bash
-LinkedIn  : linkedin.com/in/zenparker
-Twitter   : twitter.com/thezenparker
-Instagram : instagram.com/thezenparker
-Email     : zaheerocean@gmail.com
+```
+2026: Brutally honest about ignorance. Master JavaScript.
+2027: React and Node.js—not as technologies, but as expression.
+2028: TypeScript. Testing. Discipline. The ascetic path.
+2029: Ready to seize what lesser developers cannot imagine.
+2031-2033: The Master's years. Systems thinking. Architecture. Power.
+2033+: AUTHORITY. Not granted. EARNED. Through relentless creation.
 ```
 
 ---
 
-# GitHub Stats
+## THE REVALUATION OF ALL CODING VALUES
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=dracula&hide_border=true" alt="GitHub streak" />
-</p>
+**What I Reject:**
+- Code written for comfort and consensus
+- Features designed for the masses
+- Optimization for mediocrity
+- The illusion of "best practices" (best for whom?)
+- Frameworks that think for you
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=dracula&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-
----
-
-# Profile Summary
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thezaheershaikh&theme=dracula" alt="Profile details" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thezaheershaikh&theme=dracula" alt="Repos per language" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thezaheershaikh&theme=dracula" alt="Most commit language" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thezaheershaikh&theme=dracula" alt="Stats card" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thezaheershaikh&theme=dracula&utcOffset=8" alt="Productive time" />
-    </td>
-  </tr>
-</table>
+**What I Pursue:**
+- Uncompromising clarity
+- Elegant brutality
+- Mastery that demands total will
+- Creation that nobody asked for but everyone needs
+- The beauty of necessary complexity
 
 ---
 
-# Activity Graph
+## MY CALL TO OTHER PROGRAMMERS
 
-[![thezaheershaikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezaheershaikh&theme=dracula)](https://github.com/thezaheershaikh)
+> "He who cannot yet command himself should obey. But there are those who obey, not because they are weak, but because they have not yet found what is worthy of commanding them. These must become creators."
 
 ---
 
-# Contribution Snake
+## ON FAME AND RECOGNITION
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zenparker/zenparker/output/github-contribution-grid-snake.svg">
-</picture>
+```
+I do not build for stars or followers.
+I build because NOT building would be death.
+If my work resonates, it is because weakness recognizes strength.
+If it is rejected, it is because mediocrity fears transcendence.
 
-# philosophy.py
+Either way: **I continue.**
+```
+
+---
+
+## CONTACT: WHERE YOU REACH THE PHILOSOPHER-PROGRAMMER
+
+```
+Email  : beyond-code@example.com
+GitHub : github.com/friedrich-nietzsche-dev
+Twitter: @WillToPower
+```
+
+> *"The most powerful weapon on earth is the human soul on fire."*
+
+---
+
+## THE FINAL APHORISM
 
 ```python
-def developer_philosophy():
-    quotes = [
-        "Stay hungry, stay foolish.",
-        "First, solve the problem. Then, write the code.",
-        "Consistency compounds into greatness.",
-        "Build what matters, and build it well."
-    ]
-    import random
-    return random.choice(quotes)
-
-# Current mindset
-print(developer_philosophy())
+def immortality():
+    """
+    A programmer dies twice:
+    Once when the heart stops.
+    Once when the last line of code is forgotten.
+    
+    Write code worth remembering.
+    Write code that rewrites the future.
+    """
 ```
 
 ---
 
-## Tech Stack & Skill Evolution
+*This is not a résumé. This is a manifesto.*
 
-### Skills (Short)
+*This is not a portfolio. This is a proof of will.*
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,go,rust,html,css,tailwind,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,redis,prisma,supabase,graphql,docker,kubernetes,aws,gcp,vercel,cloudflare,bun,pnpm,git,github,githubactions,vscode,postman,jest" alt="Skills logos (short view)" />
-</p>
+**Ecce Programmer.**
 
 ---
 
-## Skill Acquisition Timeline (No Exaggeration)
+## LICENSE: THE WILL TO POWER IS UNCOPYRIGHTED
 
-- **2026:** Build strong JavaScript fundamentals and complete 2 real projects.
-- **2027:** Learn React + Node.js deeply and deploy full-stack apps.
-- **2028:** Add TypeScript, testing, and better backend architecture skills.
-- **2029:** Become job-ready for junior JavaScript full-stack roles in Germany.
-- **2031-2033:** During MS, strengthen distributed systems and cloud foundations.
-- **2033+:** Grow into senior-level ownership with architecture and mentoring.
+```
+Use this philosophy. Steal these ideas. But do not do so as a slave.
+Do so as a master creating masters.
+
+True creation cannot be legally bound.
+Only mediocrity fears imitation.
+```
 
 ---
-
-# Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/zaheershaikh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
-  </a>
-  <a href="https://paypal.me/zaheeralishaikh" target="_blank">
-    <img width="124" height="76" alt="Image" src="https://github.com/user-attachments/assets/169de3a8-b609-46fb-94b6-5024c2dd8766" />
-  </a>
+  <em>"God is dead. Convention is dead. The Herd Programmer is dying.</em><br>
+  <em>Rise, or perish. There is no middle ground."</em>
 </p>
