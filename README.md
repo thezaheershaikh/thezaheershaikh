@@ -82,7 +82,7 @@ const projects = {
 email: zaheerocean@gmail.com
 github: https://github.com/thezaheershaikh
 linkedin: https://linkedin.com/in/thezaheershaikh
-portfolio: PORTFOLIO_LINK_HERE
+portfolio: https://zaheer.vercel.app/
 ```
 
 ---
