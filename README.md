@@ -31,7 +31,7 @@ const developer = {
 
 ```json
 {
-  "languages": ["Kotlin", "Java", "C++", "JavaScript", "Python", Rust, Dart, "SQL"],
+  "languages": ["Kotlin", "Java", "C++", "JavaScript", "Python", "Rust", "Dart", "SQL"],
   "android": ["MVVM", "Clean Architecture", "Hilt", "Room", "Retrofit", "Flutter"],
   "frontend": ["React.js", "HTML5", "CSS3", "Material UI"],
   "backend": ["Node.js", "Express.js", "REST APIs", "Firebase Functions"],
