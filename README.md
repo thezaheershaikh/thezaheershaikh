@@ -1,54 +1,129 @@
-# Hi, I'm Zaheer Ali Shaikh
+# Zaheer Ali Shaikh
 
-Computer Science & Engineering undergraduate from Mumbai, India, focused on Android and full-stack development. I enjoy building production-style applications end to end and learning how real systems are architected.
+## Software Engineering Student | Android & Full-Stack Developer
 
-Currently looking for a Software Engineering internship where I can learn from experienced engineers and contribute to real codebases.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thezaheershaikh)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zaheerocean@gmail.com)
 
-## What I Work With
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thezaheershaikh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-**Languages:** Kotlin, Java, JavaScript, Python, C++, SQL
+---
 
-**Android:** MVVM, Clean Architecture, Hilt, Room, Retrofit, Flutter
+## bio.js
 
-**Frontend:** React.js, HTML5, CSS3, Material UI
+```javascript
+const developer = {
+  name: "Zaheer Ali Shaikh",
+  role: "Android & Full-Stack Developer",
+  location: "Mumbai, India",
+  education: "B.E. Computer Science & Engineering, University of Mumbai (Expected 2027)",
+  focus: ["Android Development", "Full-Stack Web Development", "System Design"],
+  portfolio: "PORTFOLIO_LINK_HERE",
+  stack: ["Kotlin", "Java", "JavaScript", "React", "Node.js", "Firebase"],
+  currentlyLearning: ["System Design Fundamentals", "Advanced DSA", "Testing & CI/CD"],
+  mission: "Build clean, well-architected applications and keep learning from real-world systems."
+};
+```
 
-**Backend:** Node.js, Express.js, REST APIs, Firebase Functions
+---
 
-**Databases:** MongoDB, MySQL, PostgreSQL, Firebase Firestore, Room DB
+## skills.json
 
-**Tools:** Git, GitHub, Postman, Android Studio, VS Code, Firebase, AWS EC2
+```json
+{
+  "languages": ["Kotlin", "Java", "C++", "JavaScript", "Python", Rust, Dart, "SQL"],
+  "android": ["MVVM", "Clean Architecture", "Hilt", "Room", "Retrofit", "Flutter"],
+  "frontend": ["React.js", "HTML5", "CSS3", "Material UI"],
+  "backend": ["Node.js", "Express.js", "REST APIs", "Firebase Functions"],
+  "databases": ["MongoDB", "MySQL", "PostgreSQL", "Firebase Firestore", "Room DB"],
+  "tools": ["Git", "GitHub", "Postman", "Android Studio", "VS Code", "AWS EC2"],
+  "currentlyLearning": ["System Design", "Testing with JUnit/Jest", "CI/CD pipelines"]
+}
+```
 
-## Featured Projects
+---
 
-### Kora Music - Music Streaming Android App
-A production-grade Android music streaming app built with MVVM and Clean Architecture. Features ExoPlayer-based playback with offline caching, a multi-tier subscription system (Free / Gold / Diamond), encrypted local sessions, Firebase Authentication, and a custom UI with dark/light themes.
+## projects.js
 
-Tech: Kotlin, MVVM, Clean Architecture, ExoPlayer, Firebase, Room, Hilt
+```javascript
+const projects = {
+  "01": {
+    name: "Kora Music",
+    description: "Production-grade Android music streaming app",
+    stack: ["Kotlin", "MVVM", "Clean Architecture", "ExoPlayer", "Firebase", "Room", "Hilt"],
+    highlights: ["Offline caching", "Multi-tier subscriptions", "Encrypted sessions"]
+  },
+  "02": {
+    name: "Finance Manager App",
+    description: "Personal finance tracker with budgeting and analytics",
+    stack: ["Kotlin", "MVVM", "Room DB"],
+    highlights: ["Offline-first architecture", "LiveData + ViewModel"]
+  },
+  "03": {
+    name: "E-Commerce Platform",
+    description: "Full-stack e-commerce app with cart, checkout, and admin dashboard",
+    stack: ["React.js", "Node.js", "MongoDB", "Stripe", "JWT"],
+    highlights: ["JWT auth", "Role-based access", "Stripe integration"]
+  },
+  "04": {
+    name: "SaaS Analytics Dashboard",
+    description: "Full-stack dashboard with REST APIs and data visualizations",
+    stack: ["React.js", "Node.js", "MongoDB"],
+    highlights: ["Express REST APIs", "Subscription-based access model"]
+  }
+};
+```
 
-### Finance Manager App
-A personal finance tracker with expense categorization, budgeting, and a monthly analytics dashboard. Built offline-first with Room DB and reactive UI updates using LiveData and ViewModel.
+---
 
-Tech: Kotlin, MVVM, Room DB
+## contact.yml
 
-### E-Commerce Platform
-A full-stack e-commerce application with product listings, cart, checkout, JWT authentication, role-based access control, Stripe payment integration, and an admin dashboard for managing products and orders.
+```yaml
+email: zaheerocean@gmail.com
+github: https://github.com/thezaheershaikh
+linkedin: https://linkedin.com/in/thezaheershaikh
+portfolio: PORTFOLIO_LINK_HERE
+```
 
-Tech: React.js, Node.js, MongoDB, Stripe, JWT
+---
 
-### SaaS Analytics Dashboard
-A full-stack analytics dashboard with user accounts, REST APIs built with Express.js, and data visualizations, exploring a subscription-based feature access model.
+## GitHub Stats
 
-Tech: React.js, Node.js, MongoDB
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thezaheershaikh&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thezaheershaikh&theme=dracula&hide_border=true" alt="GitHub streak" />
+</p>
 
-## Other Highlights
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezaheershaikh&theme=dracula&hide_border=true&layout=compact" alt="Top languages" />
+</p>
 
-- Solved 250+ Data Structures & Algorithms problems
-- Built 4 end-to-end personal projects spanning Android and full-stack development
-- Comfortable picking up new tools and frameworks quickly through documentation and hands-on practice
+---
 
-## Connect With Me
+## Activity Graph
+
+[![thezaheershaikh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thezaheershaikh&theme=dracula)](https://github.com/thezaheershaikh)
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,js,react,nodejs,express,mongodb,mysql,postgres,firebase,androidstudio,flutter,git,github,vscode,postman,aws" alt="Skill icons" />
+</p>
+
+---
+
+## Currently
+
+- Working on production-quality Android and full-stack projects
+- Practicing Data Structures & Algorithms (250+ problems solved so far)
+- Looking for a Software Engineering internship to learn from experienced engineers and contribute to real codebases
+
+---
+
+## Connect
 
 - LinkedIn: [linkedin.com/in/thezaheershaikh](https://linkedin.com/in/thezaheershaikh)
 - Email: zaheerocean@gmail.com
-
-Feel free to explore my repositories below for project code and details.
+- Portfolio: PORTFOLIO_LINK_HERE
