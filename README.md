@@ -18,7 +18,7 @@ const developer = {
   location: "Mumbai, India",
   education: "B.E. Computer Science & Engineering, University of Mumbai (Expected 2027)",
   focus: ["Android Development", "Full-Stack Web Development", "System Design"],
-  portfolio: "PORTFOLIO_LINK_HERE",
+  portfolio: "https://zaheer.vercel.app/",
   stack: ["Kotlin", "Java", "JavaScript", "React", "Node.js", "Firebase"],
   currentlyLearning: ["System Design Fundamentals", "Advanced DSA", "Testing & CI/CD"],
   mission: "Build clean, well-architected applications and keep learning from real-world systems."
@@ -126,4 +126,4 @@ portfolio: https://zaheer.vercel.app/
 
 - LinkedIn: [linkedin.com/in/thezaheershaikh](https://linkedin.com/in/thezaheershaikh)
 - Email: zaheerocean@gmail.com
-- Portfolio: PORTFOLIO_LINK_HERE
+- Portfolio: https://zaheer.vercel.app/
