@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/f723ada7-0092-4936-88e9-2978e2d145d9" />
+
 # Zaheer Ali Shaikh
 
 ## Software Engineering Student | Android & Full-Stack Developer
