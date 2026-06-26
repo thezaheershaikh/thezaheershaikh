@@ -1,11 +1,13 @@
-<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/f723ada7-0092-4936-88e9-2978e2d145d9" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f723ada7-0092-4936-88e9-2978e2d145d9" alt="Image" style="width:800px;height:199px;aspect-ratio:800/199;display:block;margin:0 auto;" />
+</p>
 
 # Zaheer Ali Shaikh
 
 ## Software Engineering Student | Android & Full-Stack Developer
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/thezaheershaikh)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zaheerocean@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:zaheerocean@gmail)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thezaheershaikh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
