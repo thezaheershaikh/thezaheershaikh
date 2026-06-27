@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f723ada7-0092-4936-88e9-2978e2d145d9" alt="Image" style="width:800px;height:199px;aspect-ratio:800/199;display:block;margin:0 auto;" />
-</p>
+<img width="1400" height="349" alt="Image" src="https://github.com/user-attachments/assets/504c3aa3-b208-4c21-b461-e4b5da91d9f9" />
 
 # Zaheer Ali Shaikh
 
